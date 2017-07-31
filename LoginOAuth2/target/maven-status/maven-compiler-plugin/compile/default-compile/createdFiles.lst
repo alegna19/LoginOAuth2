@@ -7,10 +7,12 @@ com/contract/loginOAuth2/security/OAuth2SecurityConfiguration.class
 com/contract/loginOAuth2/configuration/MongoConfig.class
 com/contract/loginOAuth2/service/UserServiceImpl.class
 com/contract/loginOAuth2/constans/ContractMethodsConstans.class
+com/contract/loginOAuth2/exception/BadRequestException.class
 com/contract/loginOAuth2/configuration/HelloWorldInitializer.class
 com/contract/loginOAuth2/constans/PrivilegeConstans.class
 com/contract/loginOAuth2/configuration/CORSFilter.class
 com/contract/loginOAuth2/controller/HelloWorldRestController.class
+com/contract/loginOAuth2/constans/ExceptionsConstant.class
 com/contract/loginOAuth2/security/SecurityWebApplicationInitializer.class
 com/contract/loginOAuth2/controller/CustomController.class
 com/contract/loginOAuth2/security/UserDetailsServiceImpl.class
@@ -18,4 +20,5 @@ com/contract/loginOAuth2/dao/UserDAOImpl.class
 com/contract/loginOAuth2/dao/UserDAO.class
 com/contract/loginOAuth2/security/ResourceServerConfiguration.class
 com/contract/loginOAuth2/model/User.class
+com/contract/loginOAuth2/dao/DataBaseResultNotFoundException.class
 com/contract/loginOAuth2/service/UserService.class
